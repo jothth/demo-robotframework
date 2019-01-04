@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation           This is not a simple test with Robot Framework
+Documentation           This is not not a simple test with Robot Framework
 Library                 Selenium2Library
 
 
